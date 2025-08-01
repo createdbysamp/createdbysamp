@@ -1,16 +1,48 @@
-## Hi there 👋
+# ✌🏼 Hey there! I'm Sampeezy
 
-<!--
-**createdbysamp/createdbysamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile – a space where code, creativity, and community intersect.
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Former classroom teacher turned tech creative
+- 🎧 Music producer & videographer with a love for visual storytelling
+- 🧠 Always learning – currently leveling up my React skills
+- 🤖 Fascinated by generative AI and its power to change how we build, create, and connect
+
+## 🔭 What I'm Working On
+
+- React-based projects that bring interactivity and utility to life
+- Building with generative AI tools – exploring creative and educational applications
+- Web-based tools that blend code and creativity (from educational apps to artist tools)
+
+## 🤝🏽 Looking to Collaborate On
+
+- Generative AI projects (text, image, audio – all of it!)
+- Open source tools that support educators, creators, or communities
+- React and Next.js projects that push boundaries and do good
+
+## ⚙️ Tech Stack
+
+- **Languages:** JavaScript, SQL, HTML/CSS, Python
+- **Frameworks & Libraries:** React, Node.js, Express, Tailwind, Next.js (learning)
+- **Tools:** Git, GitHub, MySQL, Logic Pro, Final Cut Pro, Adobe Suite, Pro Tools
+
+## 🧠 Things I'm Into
+
+- 🌻 Community-centered projects & tools that help people grow
+- 🎶 Sound design, vocal arrangement, and music production
+- 💪🏽 Fitness, mindfulness, and finding joy in the process
+- 🌸 Flowers, especially orchids, lavender, and sunflowers
+
+## 🧃 come say hi
+
+i’m always down to build with folks who care about art, tech, and doing something meaningful.
+
+if you’re working on something wild with AI, building tools that uplift others, or just wanna geek out about flowers, sound design, or code structure — slide through.
+
+- 🌱 [https://masampson.myportfolio.com/]
+- 🌀 [(https://www.instagram.com/sampeezy4l)]
+- 🎛️ [soundcloud / youtube if you share music]](https://www.youtube.com/@southstateband)]
+- ☕ hit me up directly: [createdbysamp@gmail.com]
+
+Thanks for stopping byyyy 🔮🌙🐈‍⬛
