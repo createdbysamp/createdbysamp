@@ -1,26 +1,35 @@
 # heyooo! i'm sampeezy 🌱🎧💻
 
 ## 🌟 about me
-🎓 ex-teacher → tech creative
+🎓 educator → tech creative
 
 🎧 music producer + videographer
 
+💻 developer + cloud engineer
 
 
-## 🔭 collab on
-⚛️ React apps w/ interactivity
 
-🤖 building w/ genAI (text, image, audio)
+## 🔭 featured work
 
-🎨 creative + educational web tools
+⚛️ React app #1
+ – interactive web tool for learning
+
+🤖 AI project #2
+ – designs a workout plan for the user
+
+🎨 Creative project #3
+ – multimedia storytelling
 
 
 ## ⚙️ tech stack
-💻 JS • SQL • HTML/CSS • Python • C# 
 
-⚛️ React • Node.js • Tailwind • Bootstrap • Next.js • ASP.NET  
+Languages: JS • SQL • HTML/CSS • Python • C#
 
-🎛️ Logic Pro • FCPX • Adobe Suite • Pro Tools
+Frameworks: React • Node.js • Next.js • ASP.NET
+
+Styling: Tailwind • Bootstrap
+
+Creative tools: Logic Pro • FCPX • Adobe Suite • Pro Tools
 
 
 ## 🧠 into
@@ -34,4 +43,6 @@
 
 
 
-Thanks for stopping byyyy 🔮🌙🐈‍⬛
+
+
+// thanks for stopping byyyy 🔮🌙🐈‍⬛ 
