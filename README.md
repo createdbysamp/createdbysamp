@@ -5,7 +5,7 @@
 
 🎧 music producer + videographer
 
-💻 developer + cloud engineer
+💻 developer
 
 
 
