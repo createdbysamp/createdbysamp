@@ -1,6 +1,6 @@
-heyooo! i'm sampeezy 🌱🎧💻
+# heyooo! i'm sampeezy 🌱🎧💻
 
-🌟 about me
+## 🌟 about me
 🎓 ex-teacher → tech creative
 
 🎧 music producer + videographer
@@ -10,7 +10,7 @@ heyooo! i'm sampeezy 🌱🎧💻
 🌸 lover of orchids, lavender, sunflowers
 
 
-🔭 current projects
+## 🔭 current projects
 ⚛️ React apps w/ interactivity
 
 🤖 building w/ genAI (text, image, audio)
@@ -18,7 +18,7 @@ heyooo! i'm sampeezy 🌱🎧💻
 🎨 creative + educational web tools
 
 
-🤝🏽 collab on
+## 🤝🏽 collab on
 🌀 AI projects (all mediums)
 
 🌱 open source for educators & creators
@@ -26,18 +26,18 @@ heyooo! i'm sampeezy 🌱🎧💻
 ⚡ React / Next.js experiments
 
 
-⚙️ tech stack
+## ⚙️ tech stack
 💻 JS • SQL • HTML/CSS • Python • C# 
 ⚛️ React • Node.js • Express • Tailwind • Next.js • ASP.NET  
 🎛️ Logic Pro • FCPX • Adobe Suite • Pro Tools
 
-🧠 into
+## 🧠 into
 🌻 community + growth
 🎶 sound design + music
 💪🏽 fitness + mindfulness
 🌸 flowers + joy in process
 
-🧃 say hi
+## 🧃 say hi
 - 🌱 [https://masampson.myportfolio.com/]
 - 🌀 [https://www.instagram.com/sampeezy4l]
 - 🎛️ [https://www.youtube.com/@southstateband)]
