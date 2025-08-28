@@ -9,7 +9,7 @@
 
 
 
-## 🔭 featured work
+## 🔭 collab on
 
 ⚛️ React app #1
  – interactive web tool for learning
