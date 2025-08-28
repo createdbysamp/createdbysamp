@@ -28,13 +28,18 @@
 
 ## ⚙️ tech stack
 💻 JS • SQL • HTML/CSS • Python • C# 
+
 ⚛️ React • Node.js • Express • Tailwind • Next.js • ASP.NET  
+
 🎛️ Logic Pro • FCPX • Adobe Suite • Pro Tools
 
 ## 🧠 into
 🌻 community + growth
+
 🎶 sound design + music
+
 💪🏽 fitness + mindfulness
+
 🌸 flowers + joy in process
 
 
