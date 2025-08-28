@@ -37,10 +37,6 @@
 💪🏽 fitness + mindfulness
 🌸 flowers + joy in process
 
-## 🧃 say hi
-- 🌱 [https://masampson.myportfolio.com/]
-- 🌀 [https://www.instagram.com/sampeezy4l]
-- 🎛️ [https://www.youtube.com/@southstateband)]
-- ☕ hit me up directly: [createdbysamp@gmail.com]
+
 
 Thanks for stopping byyyy 🔮🌙🐈‍⬛
