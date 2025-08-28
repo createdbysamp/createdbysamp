@@ -18,7 +18,7 @@
 ## ⚙️ tech stack
 💻 JS • SQL • HTML/CSS • Python • C# 
 
-⚛️ React • Node.js • Express • Tailwind • Next.js • ASP.NET  
+⚛️ React • Node.js • Tailwind • Bootstrap • Next.js • ASP.NET  
 
 🎛️ Logic Pro • FCPX • Adobe Suite • Pro Tools
 
