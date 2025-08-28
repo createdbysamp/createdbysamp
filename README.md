@@ -5,25 +5,14 @@
 
 🎧 music producer + videographer
 
-🧠 learning React & generative AI
-
-🌸 lover of orchids, lavender, sunflowers
 
 
-## 🔭 current projects
+## 🔭 collab on
 ⚛️ React apps w/ interactivity
 
 🤖 building w/ genAI (text, image, audio)
 
 🎨 creative + educational web tools
-
-
-## 🤝🏽 collab on
-🌀 AI projects (all mediums)
-
-🌱 open source for educators & creators
-
-⚡ React / Next.js experiments
 
 
 ## ⚙️ tech stack
@@ -32,6 +21,7 @@
 ⚛️ React • Node.js • Express • Tailwind • Next.js • ASP.NET  
 
 🎛️ Logic Pro • FCPX • Adobe Suite • Pro Tools
+
 
 ## 🧠 into
 🌻 community + growth
